@@ -1,7 +1,7 @@
 # YouTube Thumbnail Downloader
 
 ## Demo 
-- gitgub site is live: https://sudor2spr.github.io/YouTube-Thumbnail-Downloader/
+- github site is live: https://sudor2spr.github.io/YouTube-Thumbnail-Downloader/
 
 ## Description
 
