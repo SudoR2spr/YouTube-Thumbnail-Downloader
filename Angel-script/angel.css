@@ -1,0 +1,35 @@
+.thumbnail-container {
+            margin-bottom: 20px;
+			height: 90vh;
+        }
+        .thumbnail-container img {
+            max-width: 100%;
+            height: auto;
+            margin-bottom: 10px;
+        }
+		
+		.woodcraft {
+		    font-family: Stencil Std, fantasy;
+            color: red;
+			text-align: center;
+			margin-top: 10px;
+			
+            font-size: 24px;
+            margin-bottom: 20px;
+			justify-content: center;
+        }
+
+        footer {
+            position: fixed;
+            bottom: 10px;
+            width: 100%;
+            text-align: center;
+			text-decoration: none;	
+            font-size: 14px;
+            color: DeepPink;
+			border-radius:5px;
+			border: 2px solid green;
+            box-shadow: 3px 6px DeepPink;
+			border-top-color: Dark;
+		   }
+	    }
